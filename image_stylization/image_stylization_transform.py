@@ -139,6 +139,7 @@ def main(unused_argv=None):
         os.makedirs(output_dir)
 
     which_styles = ast.literal_eval(FLAGS.which_styles)
+    ic(which_styles)
     if isinstance(which_styles, list):
         _multiple_images(image, which_styles, output_dir)
     elif isinstance(which_styles, dict):

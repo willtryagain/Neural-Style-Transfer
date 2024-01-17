@@ -456,6 +456,7 @@ def save_np_image(image, output_file, save_format="jpeg"):
     f.close()
 
 
+
 def load_image(image_file, image_size=None):
     """Loads an image and center-crops it to a specific size.
 
