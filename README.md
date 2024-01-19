@@ -4,6 +4,8 @@
 Explore the established methods for neural style tranfer for multi-style transfer on high resolution images.
 Also tinker with toy RHLF models in this context.
 
+Open [solution notebook](https://github.com/willtryagain/Neural-Style-Transfer/blob/main/solution.ipynb).
+
 #### Citation
 
 [A neural algorithm of artistic style](https://arxiv.org/pdf/1508.06576.pdf)
