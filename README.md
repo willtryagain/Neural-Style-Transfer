@@ -1,8 +1,7 @@
-
 # Neural Style Transfer
 
 Exploring the established methods for neural style tranfer for multi-style transfer on high resolution images.
-Also tinkering with toy RHLF model in this context.
+Also tinkering with toy RLHF model in this context.
 
 Open [solution notebook](https://github.com/willtryagain/Neural-Style-Transfer/blob/main/solution.ipynb).
 
